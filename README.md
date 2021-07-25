@@ -1,6 +1,6 @@
 # customer_satisfaction_machine_learning
 ## How to run 
-1)you can install the dependencies with pip3 install -r requiremeent.txt
+1)you can install the dependencies with pip3 install -r requirements.txt
 2) you can run the python code with python3
 
 ## current outuput
